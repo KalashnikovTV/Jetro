@@ -105,14 +105,11 @@
     }
 }
 
-
 @media (max-width: 420px) {
     .slide__text {
         width: 80%;
-        
     }
 }
-
 
 
 
@@ -120,5 +117,4 @@
     .header__menu > ul {
         display: block !important;
     }
-
 }

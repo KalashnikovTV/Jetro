@@ -53,14 +53,8 @@ $(function(){
               variableWidth: false,
             }
           },
-             
-
         ]
-
-
-
-
-
+        
       });
       
       
