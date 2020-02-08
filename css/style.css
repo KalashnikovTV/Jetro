@@ -293,21 +293,20 @@ li {
     justify-content: space-between;
 }
 
-.works__wrapper-img {
-    height: 184px;             /*  возможны проблемы тут */
-}
-
 .works__wrapper-img img{
     display: block;
     width: 220px;
     background-size: cover;
     background-repeat: no-repeat;
+    height: 184px;
 }
 
 .works__wrapper-content {
     width: 220px;
     margin-bottom: 48px;
 }
+
+
 
 .works__wrapper-box {
     border-left: 1px solid #b9b9b9;

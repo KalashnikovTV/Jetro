@@ -103,6 +103,30 @@
     .item__text {
         margin-bottom: 25px;
     }
+    /* Remove slick-prev and slick-next */
+    .slick-prev,
+    .slick-next {
+        display: none;
+    }
+}
+
+@media (max-width: 476px){
+    .works__wrapper-content {
+        width: 100%;
+    }
+    .works__wrapper-box {
+        text-align: center;
+    }
+
+    .works__wrapper-img img {
+        width: 100%;
+        height: auto;
+    }
+
+    .works__wrapper-img a {
+        width: 100%;
+    }
+
 }
 
 @media (max-width: 420px) {
